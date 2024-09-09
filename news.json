@@ -1,0 +1,68 @@
+[
+    {
+        "id": "cnn-news",
+        "name": "CNN",
+        "author": "John Doe",
+        "title": "New Tech Advancements in 2024",
+        "description": "Exciting new technology advancements are set to revolutionize industries in 2024.",
+        "url": "https://www.cnn.com/news/tech-2024",
+        "urlToImage": "https://cdn.cnn.com/tech2024.jpg",
+        "publishedAt": "2024-09-01T09:15:00Z",
+        "content": "Technology in 2024 is set to bring groundbreaking innovations."
+    },
+    {
+        "id": "fox-news",
+        "name": "Fox News",
+        "author": "Jane Doe",
+        "title": "Global Economic Update",
+        "description": "The global economy shows signs of recovery as markets stabilize.",
+        "url": "https://www.foxnews.com/business/global-economy-2024",
+        "urlToImage": "https://cdn.foxnews.com/economy2024.jpg",
+        "publishedAt": "2024-09-02T12:00:00Z",
+        "content": "Experts weigh in on the future of the global economy in 2024."
+    },
+    {
+        "id": "bbc-news",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Another important event",
+        "description": "Details about another important events happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/important-event",
+        "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for important event happening globally"
+    },
+    {
+        "id": "reuters-news",
+        "name": "Reuters",
+        "author": "Michael Scott",
+        "title": "Stock Market Hits Record Highs",
+        "description": "Stock markets hit new record highs amid strong corporate earnings reports.",
+        "url": "https://www.reuters.com/markets/stock-market-records-2024",
+        "urlToImage": "https://cdn.reuters.com/stockmarket2024.jpg",
+        "publishedAt": "2024-09-04T11:45:00Z",
+        "content": "Strong corporate earnings drive stock markets to record highs."
+    },
+    {
+        "id": "aljazeera-news",
+        "name": "Al Jazeera",
+        "author": "Sara Khan",
+        "title": "Global Health: Advances in Medicine",
+        "description": "Medical advancements in 2024 offer hope for treating various diseases.",
+        "url": "https://www.aljazeera.com/news/medicine-advancements-2024",
+        "urlToImage": "https://cdn.aljazeera.com/medicine2024.jpg",
+        "publishedAt": "2024-09-05T14:20:00Z",
+        "content": "New treatments and medical technologies are being developed in 2024."
+    },
+    {
+        "id": "nyt-news",
+        "name": "New York Times",
+        "author": "Emily Clark",
+        "title": "Art and Culture: Renaissance in 2024",
+        "description": "Art and culture are seeing a renaissance in 2024 with new creative expressions.",
+        "url": "https://www.nytimes.com/culture/art-renaissance-2024",
+        "urlToImage": "https://cdn.nytimes.com/art2024.jpg",
+        "publishedAt": "2024-09-06T10:50:00Z",
+        "content": "Art and culture are thriving with new movements emerging in 2024."
+    }
+]
